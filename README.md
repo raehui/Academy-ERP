@@ -1,5 +1,7 @@
 # 학원ERP 관리 시스템
 
+📓소개영상 : https://youtu.be/thHJxVCFyTI?si=JPzYC0MAbzudTW0F
+
 ![Image](https://github.com/user-attachments/assets/926f4d51-58cb-4f4c-8c30-95847a13a887)
 ![Image](https://github.com/user-attachments/assets/928c87d1-57cd-43b9-a163-f9c526eaff3f)
 ![Image](https://github.com/user-attachments/assets/b737fa5b-2488-433a-b43a-874940e9e792)
